@@ -1,6 +1,6 @@
 # newspapers
 
-A new Flutter project.
+This is a simple app to read RSS newspapers
 
 ## Getting Started
 
